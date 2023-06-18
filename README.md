@@ -7,7 +7,7 @@
 
 ## Aprendiendo
 - **Desarrollo Android nativo:** Java, Kotlin
-- **Backend con Node.js:** Express.js, Nest.js
+- **Backend con Node.js:** Typescript, JavaScript, Express, JWT
 - **Frameworks y bibliotecas:** React Native, Flutter
 - **Base de datos:** MongoDB, Firebase, MySQL
 - **Control de versiones:** Git, GitHub
@@ -25,4 +25,4 @@ Aquí hay una muestra de algunos de mis proyectos más destacados:
 - Correo electrónico: jadmmr.2022@gmail.com
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jadmdev/)](https://www.linkedin.com/in/jadmdev/)
 - Hashnode: [![Hashnode](https://img.shields.io/badge/-Hashnode-black?style=flat-square&logo=hashnode&logoColor=white&link=https://hashnode.com/@JadmDev)](https://hashnode.com/@JadmDev)
-- Twitter: [@TuNombreDeUsuario](https://twitter.com/SirJadm)
+- Twitter: [@SirJadm](https://twitter.com/SirJadm)
